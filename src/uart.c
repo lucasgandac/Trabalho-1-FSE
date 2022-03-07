@@ -6,6 +6,7 @@
 #include <termios.h>  
 #include <unistd.h>   
 
+#include "crc16.h"
 
 int connect_uart() {
   int filestream = -1;
