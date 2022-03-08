@@ -5,14 +5,14 @@ Implementação do primeiro trabalho de Fundamentos de Sistemas Embarcados
 ## Compilação
 
 Para a execução do programa, é necessário a utilização de um makefile. Para inicializar, rode os comandos a partir da pasta raiz :</br>
+```Este comando compila o programa```
 ```
-Este comando compila o programa
+$ make
 ```
-```$ make``` </br>
+```Este comando executa o programa```
 ```
-Este comando executa o programa
+$ make run
 ```
-```$ make run```
 
 ## Sobre
 O trabalho se baseia na implementação de um projeto que implementa o controle de um forno para soldagem de placas de circuito impresso (PCBs).
