@@ -1,12 +1,12 @@
+#include "crc16.h"
+#include "gpio.h"
+#include "uart.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 #include <fcntl.h>  
 #include <termios.h>  
 #include <unistd.h>   
-
-#include "crc16.h"
 
 int connect_uart() {
   int filestream = -1;
