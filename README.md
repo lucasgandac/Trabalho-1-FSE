@@ -1,13 +1,17 @@
 # Trabalho 1 de FSE
 
-Implementação do do Trabalho 1 de Fundamentos de Sistemas Embarcado
+Implementação do primeiro trabalho de Fundamentos de Sistemas Embarcados
 
 ## Compilação
 
 Para a execução do programa, é necessário a utilização de um makefile. Para inicializar, rode os comandos a partir da pasta raiz :</br>
-Compila o programa :</br>
+```
+Este comando compila o programa
+```
 ```$ make``` </br>
-Executa o programa :</br>
+```
+Este comando executa o programa
+```
 ```$ make run```
 
 ## Sobre
